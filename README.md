@@ -15,7 +15,7 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/></a>
 
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=Python&logoColor=FF8800&labelColor=5E85B6&color=FF0000" alt="Python"/></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=Python&logoColor=FF8800&labelColor=5E85B6&color=FF0000" alt="Python"/></a>
 
 <!--
 &color=black
