@@ -41,4 +41,8 @@ P.S: Хотите использовать такие же значки у се�
 
 </details>
 
+<!--
+ДОБАВИТЬ СЮДА СТАТУ С CODEWARS!
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/></a>
+-->
