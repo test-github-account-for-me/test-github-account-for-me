@@ -7,7 +7,7 @@
 - 📫 Вы можете связаться со мной при помощи [Telegram](https://t.me/LinuxOnly).
 
 <details>
-<summary><h3>Мой стек технологий и инструментов:</h3></summary>
+<summary><h3>Мой стек технологий и инструментов</h3></summary>
 
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
 <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff" alt="Markdown"/></a>
@@ -36,12 +36,9 @@
 <a href="https://translate.google.com/"><img src="https://img.shields.io/badge/Google%20Translate-4169E1?style=for-the-badge&logo=googletranslate&logoColor=ffffff" alt="Google%20Translate"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/GNU%20Bash-2e2c29?style=for-the-badge&logo=gnubash&logoColor=ffffff" alt="GNU%20Bash"/></a>
 <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff" alt="YouTube"/></a>
-<a href=""><img src="" alt=""/></a>
-<a href=""><img src="" alt=""/></a>
 
 P.S: Хотите использовать такие же значки у себя? Вы можете получить эти и многие другие значки в моём [репозитории]()!
 
 </details>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/НАДПИСЬ НА БЕЙДЖЕ-ЦВЕТ ФОНА?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/></a>
-
